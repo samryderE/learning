@@ -1,5 +1,5 @@
 function reallySimple() {
-    return 'something else mushier';
+    return 'super balls';
 }
 
 console.log(reallySimple());
