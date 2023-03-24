@@ -1,5 +1,5 @@
 function reallySimple() {
-    return 'my brain is mush';
+    return 'something else mushier';
 }
 
 console.log(reallySimple());
